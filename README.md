@@ -5,7 +5,7 @@ This repository contains assignments that I created with [Codecademy](https://ww
 Project | Description
 ----------|----------
 1 | [Thound Like Daffy Duck!](ruby/daffy-duck.rb)
-2 | In progress
+2 | [Censor Your Text - Redacted](ruby/redacted.rb)
 3 | In progress
 
 ## Javascript
