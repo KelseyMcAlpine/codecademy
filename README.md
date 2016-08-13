@@ -6,7 +6,7 @@ Project | Description
 ----------|----------
 1 | [Thound Like Daffy Duck!](ruby/daffy-duck.rb)
 2 | [Censor Your Text - Redacted](ruby/redacted.rb)
-3 | In progress
+3 | [Histogram](ruby/histogram.rb)
 
 ## Javascript
 Project | Description
