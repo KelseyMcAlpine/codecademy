@@ -17,7 +17,7 @@ Unit | Lesson | Description
 
 ## Javascript
 Unit | Lesson | Description
----------|---------
+---------|---------|----------
 1 | Introduction to Javascript | [Code Your Own Adventure](Javascript/code-your-own-adventure.js)
 2 | Functions | [Rock Paper Scissors](javascript/rock-paper-scissors.js)
 3 | 'For' Loops in Javascript | [Search Text For Your Name](Javascript/seach-text-for-name.js)
