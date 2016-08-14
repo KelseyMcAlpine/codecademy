@@ -10,7 +10,7 @@ Unit | Lesson | Description
 4 | Arrays and Hashes | [Create a Histogram](ruby/histogram.rb)
 5 | Blocks and Sorting | [Ordering Your Library ](ruby/ordering-your-library.rb)
 6 | Hashes and Symbols | [A Night at the Moves](ruby/a-night-at-the-movies.rb)
-7 | Refactoring | [comingsoon](ruby/sample.rb)
+7 | Refactoring | [Refactor Factory](ruby/refactor-factory.rb)
 8 | Blocks, Procs, and Lambdas | [comingsoon](ruby/sample.rb)
 9 | Object-Oriented Programming, Part I | [comingsoon](ruby/sample.rb)
 10 | Object-Oriented Programming, Part II | [comingsoon](ruby/sample.rb)
