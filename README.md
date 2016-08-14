@@ -27,7 +27,6 @@ Unit | Lesson | Description
 7 | Objects I | Incomplete
 8 | Objects II | Incomplete
 
-<!---
 ## Python
 Unit | Lesson | Description
 ----------|---------|-----------
@@ -43,5 +42,4 @@ Unit | Lesson | Description
 10 | Advanced Topics in Python | Incomplete
 11 | Introduction to Classes | Incomplete
 12 | File Input and Output | Incomplete
----!>
 
