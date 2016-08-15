@@ -18,15 +18,16 @@ Unit | Lesson | Description
 ## Javascript
 Unit | Lesson | Description
 ---------|---------|----------
-1 | Introduction to Javascript | [Code Your Own Adventure](javascript/code-your-own-adventure.js)
+1 | Introduction to Javascript | [Code Your Own Adventure Part I](javascript/code-your-own-adventure.js)
 2 | Functions | [Rock Paper Scissors](javascript/rock-paper-scissors.js)
 3 | 'For' Loops in Javascript | [Search Text For Your Name](javascript/seach-text-for-name.js)
 4 | 'While' Loops in Javascript | [Dragon Slayer](javascript/dragon-slayer.js)
-5 | Control Flow | Incomplete
-6 | Data Structures | Incomplete
+5 | Control Flow | [Code Your Own Adventure Part II](javascript/code-your-own-adventure-2.js)
+6 | Data Structures | [Contact List](javascript/contact-list.js)
 7 | Objects I | Incomplete
 8 | Objects II | Incomplete
 
+<!-----
 ## Python
 Unit | Lesson | Description
 ----------|---------|-----------
@@ -42,4 +43,5 @@ Unit | Lesson | Description
 10 | Advanced Topics in Python | Incomplete
 11 | Introduction to Classes | Incomplete
 12 | File Input and Output | Incomplete
+--->
 
