@@ -11,7 +11,7 @@ Unit | Lesson | Description
 5 | Blocks and Sorting | [Ordering Your Library ](ruby/ordering-your-library.rb)
 6 | Hashes and Symbols | [A Night at the Moves](ruby/a-night-at-the-movies.rb)
 7 | Refactoring | [Refactor Factory](ruby/refactor-factory.rb)
-8 | Blocks, Procs, and Lambdas | Incomplete
+8 | Blocks, Procs, and Lambdas | [Overview](ruby/bloacks-procs-and-lambdas.rb)
 9 | Object-Oriented Programming, Part I | Incomplete
 10 | Object-Oriented Programming, Part II | Incomplete
 
