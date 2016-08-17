@@ -12,8 +12,8 @@ Unit | Lesson | Description
 6 | Hashes and Symbols | [A Night at the Moves](ruby/a-night-at-the-movies.rb)
 7 | Refactoring | [Refactor Factory](ruby/refactor-factory.rb)
 8 | Blocks, Procs, and Lambdas | [Overview](ruby/bloacks-procs-and-lambdas.rb)
-9 | Object-Oriented Programming, Part I | Incomplete
-10 | Object-Oriented Programming, Part II | Incomplete
+9 | Object-Oriented Programming, Part I | [Virtual Computer](ruby/virtual-computer.rb)
+10 | Object-Oriented Programming, Part II | [Banking on Ruby](ruby/banking-on-ruby.rb)
 
 ## Javascript
 Unit | Lesson | Description
