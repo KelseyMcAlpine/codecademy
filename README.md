@@ -25,7 +25,7 @@ Unit | Lesson | Description
 5 | Control Flow | [Code Your Own Adventure Part II](javascript/code-your-own-adventure-2.js)
 6 | Data Structures | [Contact List](javascript/contact-list.js)
 7 | Objects I | [Building an Address Book](javascript/address-book.js)
-8 | Objects II | Incomplete
+8 | Objects II | [Building a Cash Register](javascript/cash-register.js)
 
 <!-----
 ## Python
